@@ -1,0 +1,17 @@
+{
+  "AppContainer": {
+    "home": "Home",
+    "notes": "Notes",
+    "issues": "Issues Tracker"
+  },
+  "IssuesTable": {
+    "header": {
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "completed": "Completed",
+      "priority": "Priority",
+      "openedOn": "Opened On"
+    }
+  }
+}
